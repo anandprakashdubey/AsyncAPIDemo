@@ -1,0 +1,9 @@
+﻿
+Add Microsoft.EntityFrameworkCore.SqlServer to add EF in project
+Add Microsoft.EntityFrameworkCore.Tools package to run migrations
+Execute "Add-Migration InitialMigration " command in package managers to add first migration in EF
+
+Refer program.cs code for migration
+
+Async create state machine for task to track which method should execute in which order.
+
